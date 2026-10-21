@@ -14,8 +14,3 @@ I am a student.
 
 - gitproject
 - gitproject2
-
-## Social Links
-
-- gitHub: https://github.com
-- LinkedIn: abhay.com
